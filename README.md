@@ -15,6 +15,7 @@ The Samsung Sales Analysis Dashboard is an interactive Power BI project designed
 ## Tools & Technologies
 
 * Power BI
+* Data Modeling
 * DAX (Data Analysis Expressions)
 * Power Query
 * Microsoft Excel
