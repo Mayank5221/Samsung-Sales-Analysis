@@ -3,6 +3,8 @@
 ## Project Overview
 
 The Samsung Sales Analysis Dashboard is an interactive Power BI project designed to analyze sales performance, profitability, and key business metrics. The dashboard provides stakeholders with actionable insights through dynamic visualizations, KPI tracking, and interactive filtering capabilities.
+
+
 <img width="904" height="495" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/96ce9fae-5118-4a4f-8e0a-1b8472c1a91a" />
 
 
